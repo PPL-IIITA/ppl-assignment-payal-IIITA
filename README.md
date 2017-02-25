@@ -11,9 +11,9 @@ OS Type : 64 bit<p>
 
 <h4><u>Command for command prompt in Windows</u> :</h4>
 <hr>
-\Ques1\build\classes>java q1 girl.txt boy.txt essential.txt luxury.txt utility.txt 4
+\q11\build\classes>java q1 girl.txt boy.txt essential.txt luxury.txt utility.txt 4
 <p>
-\Ques2\build\classes>java q2 girl.txt boy.txt essential.txt luxury.txt utility.txt 4
+\q2\build\classes>java q2 girl.txt boy.txt essential.txt luxury.txt utility.txt 4
 
 
 <h4><u>Class Diagram</u> :</h4>
