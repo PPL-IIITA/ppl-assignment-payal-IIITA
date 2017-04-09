@@ -1,0 +1,9 @@
+Set the current working directory path to the path where the project is present.
+
+Change the path to q4/classes
+
+Now on the command prompt, type:
+
+java q4
+
+So, the command is "cd q4/classes java q4"
