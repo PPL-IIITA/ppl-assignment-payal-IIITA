@@ -40,4 +40,4 @@ The class diagram for each question has been made separately and can be found in
 <hr>
 Documentation of each question is done separately and can be found in the docs folder of the questions.
 <hr>
-how to create javadocs is mentioned in the last line of the text file HOW-TO-BUILD
+how to create javadocs is mentioned in the text file HOW-TO-CREATE-JAVADOC
