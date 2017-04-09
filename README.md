@@ -14,14 +14,21 @@ OS Type : 64 bit<p>
 \q1\classes>java q1 girl.txt boy.txt essential.txt luxury.txt utility.txt 4
 <p>
 \q2\classes>java q2 girl.txt boy.txt essential.txt luxury.txt utility.txt 4
-
+<hr>
 \q3\classes>java q3
+<hr>
 \q4\classes>java q4
+<hr>
 \q5\classes>java q5
+<hr>
 \q6\classes>java q6
+<hr>
 \q7\classes>java q7
+<hr>
 \q8\classes>java q8
+<hr>
 \q9\classes>java q9
+<hr>
 \q10\classes>java q10
 </p>
 
@@ -32,4 +39,5 @@ The class diagram for each question has been made separately and can be found in
 <h4><u>Documentation</u> :</h4>
 <hr>
 Documentation of each question is done separately and can be found in the docs folder of the questions.
+<hr>
 how to create javadocs is mentioned in the last line of the text file HOW-TO-BUILD
