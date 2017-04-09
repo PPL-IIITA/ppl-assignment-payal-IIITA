@@ -1,0 +1,9 @@
+Set the current working directory path to the path where the project is present.
+
+Change the path to q8/classes
+
+Now on the command prompt, type:
+
+java q8
+
+So, the command is "cd q8/classes java q8"
