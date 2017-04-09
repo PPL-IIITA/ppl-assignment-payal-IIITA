@@ -11,10 +11,19 @@ OS Type : 64 bit<p>
 
 <h4><u>Command for command prompt in Windows</u> :</h4>
 <hr>
-\q1\build\classes>java q1 girl.txt boy.txt essential.txt luxury.txt utility.txt 4
+\q1\classes>java q1 girl.txt boy.txt essential.txt luxury.txt utility.txt 4
 <p>
-\q2\build\classes>java q2 girl.txt boy.txt essential.txt luxury.txt utility.txt 4
+\q2\classes>java q2 girl.txt boy.txt essential.txt luxury.txt utility.txt 4
 
+\q3\classes>java q3
+\q4\classes>java q4
+\q5\classes>java q5
+\q6\classes>java q6
+\q7\classes>java q7
+\q8\classes>java q8
+\q9\classes>java q9
+\q10\classes>java q10
+</p>
 
 <h4><u>Class Diagram</u> :</h4>
 <hr>
@@ -22,4 +31,5 @@ The class diagram for each question has been made separately and can be found in
 
 <h4><u>Documentation</u> :</h4>
 <hr>
-Documentation of each question is done separately and can be found in the respective folder of the questions.
+Documentation of each question is done separately and can be found in the docs folder of the questions.
+how to create javadocs is mentioned in the last line of the text file HOW-TO-BUILD
