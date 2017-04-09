@@ -1,0 +1,6 @@
+In the command prompt, change the current directory to:
+ppl-assignment-payal-IIITA/q9
+
+
+
+To generate javadocs Just type " ant javadocs " in the command prompt
