@@ -1,0 +1,9 @@
+Set the current working directory path to the path where the project is present.
+
+Change the path to q10/classes
+
+Now on the command prompt, type:
+
+java q10
+
+So, the command is "cd q10/classes java q10"
